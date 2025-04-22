@@ -1,0 +1,430 @@
+{
+  "basics": {
+    "name": "Ilies Tabyaoui",
+    "label": "Bachelor’s student in Computer Science and Data Science",
+    "image": "/me_avatar.jpg",
+    "email": "tbyilies@gmail.com",
+    "phone": "+33 7 88 55 30 36",
+    "url": "",
+    "summary": "Motivated Computer Science and Data Science student, currently in the second year of a Bachelor of Technology (BUT) in Computer Science. Passionate about IT, cybersecurity, and emerging technologies, I am currently looking for a summer internship (8–10 weeks starting June 9, 2025) and a work-study position starting in September 2025 to continue my studies. Curious, adaptable, and dedicated, I am eager to gain hands-on experience and contribute to innovative tech projects.",
+    "theme": "red",
+    "location": {
+      "address": "",
+      "postalCode": "75019",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": "France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Ilies Tabyaoui",
+        "url": "www.linkedin.com/in/ilies-tabyaoui"
+      },
+     
+      {
+        "network": "GitHub",
+        "username": "Ilies Tabyaoui",
+        "url": "https://github.com/iliestby"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "SNCF",
+      "position": "Bilingual Host at SNCF Station for Paris 2024 Olympics",
+      "location_type": "On site",
+      "location": "Paris, France",
+      "url": "https://sncf.com",
+      "startDate": "09/2024",
+      "endDate": "09/2024",
+      "summary": "Welcoming and guiding international visitors at the SNCF station for the Paris 2024 Olympics.",
+      "highlights": [
+        "Successfully assisted international visitors and provided seamless travel experiences."
+      ],
+      "responsibilities": [
+        "Greeted and oriented international visitors at the SNCF station.",
+        "Made announcements in English to provide clear information to passengers."
+      ],
+      "achievements": [
+        "Provided excellent customer service to Olympic visitors, ensuring smooth station experiences during the event."
+      ],
+      "skills": [
+        "Fluent in English",
+        "Customer Service",
+        "Multilingual Communication"
+      ]
+    },
+    {
+      "name": "ID Logistics",
+      "position": "Logistics Operations Agent",
+      "location_type": "On site",
+      "location": "Châteauroux, France",
+      "url": "https://www.id-logistics.com/fr/",
+      "startDate": "08/2024",
+      "endDate": "08/2024",
+      "summary": "Responsible for managing logistics operations such as goods reception, storage, and shipping.",
+      "highlights": [
+        "Successfully contributed to efficient logistics and operations."
+      ],
+      "responsibilities": [
+        "Handled the reception, storage, and shipment of goods.",
+        "Assisted in order preparation operations to ensure timely deliveries."
+      ],
+      "achievements": [
+        "Contributed to streamlining logistics operations, improving overall efficiency in the warehouse."
+      ],
+      "skills": [
+        "Logistics",
+        "Inventory Management",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Intermarché",
+      "position": "Shelf Stocking Assistant",
+      "location_type": "On site",
+      "location": "Châteauroux, France",
+      "url": "https://intermarche.com",
+      "startDate": "08/2023",
+      "endDate": "09/2023",
+      "summary": "Responsible for daily restocking of shelves and maintaining store organization.",
+      "highlights": [
+        "Maintained a well-organized and stocked store environment."
+      ],
+      "responsibilities": [
+        "Restocked shelves daily and ensured product availability.",
+        "Monitored inventory levels and ensured product rotation."
+      ],
+      "achievements": [
+        "Contributed to maintaining store organization, enhancing customer shopping experience."
+      ],
+      "skills": [
+        "Inventory Management",
+        "Customer Service",
+        "Attention to Detail"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Local Coding Club",
+      "position": "Volunteer",
+      "url": "https://codingclub.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Helped organize coding workshops and mentored new members.",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Université Sorbonne Paris Nord",
+      "url": "https://www.univ-spn.fr/",
+      "area": "Computer Science",
+      "studyType": "Bachelor 2nd Year",
+      "startDate": "2024-01-09",
+      "endDate": "2025-01-09",
+      "score": "3.8",
+      "courses": [
+        "",
+        ""
+      ]
+    },
+    {
+      "institution": "Université Paris 1 Panthéon Sorbonne",
+      "url": "https://www.pantheonsorbonne.fr/",
+      "area": "Mathematics and Computer Science",
+      "studyType": "Licence 1-2 (Bachelor 1st and 2nd Year",
+      "startDate": "2022-01-09",
+      "endDate": "2024-01-07",
+      "score": "2.0",
+      "courses": [
+        "",
+        ""
+      ]
+    },
+    {
+      "institution": "Lycée Jean Giraudoux",
+      "url": "https://www.lyceegiraudoux.fr/",
+      "area": "High School Diploma in Science",
+      "studyType": "Baccalauréat",
+      "startDate": "2019-01-09",
+      "endDate": "2022-10-07",
+      "score": "3.7",
+      "courses": [
+        "",
+        ""
+      ]
+    }
+  ],
+ 
+ 
+ "skills": [
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Scripting",
+        "Data Science"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "Data Storage",
+        "Backend",
+        "Data Querying"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Server-Side"
+      ]
+    },
+    {
+      "name": "Pandas",
+      "level": "Intermediate",
+      "keywords": [
+        "Data Science",
+        "Data Analysis",
+        "Python",
+        "Data Processing"
+      ]
+    },
+    {
+      "name": "Streamlit",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Data Science",
+        "Python",
+        "Data Visualization"
+      ]
+    },
+    {
+      "name": "Cryptography & Security",
+      "level": "Intermediate",
+      "keywords": [
+        "Security",
+        "Encryption",
+        "Data Protection"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Microsoft Office Suite",
+      "level": "Intermediate",
+      "keywords": [
+        "Productivity",
+        "Documentation",
+        "Spreadsheets",
+        "Presentations"
+      ]
+    },
+    {
+      "name": "Power BI",
+      "level": "Intermediate",
+      "keywords": [
+        "Data Analysis",
+        "Data Visualization",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Beginner",
+      "keywords": [
+        "Cloud Computing",
+        "Infrastructure",
+        "DevOps"
+      ]
+    },
+    {
+      "name": "GitLab",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code Management"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "level": "Intermediate",
+      "keywords": [
+        "Planning",
+        "Team Coordination",
+        "Agile",
+        "Scrum"
+      ]
+    },
+    {
+      "name": "Software Testing",
+      "level": "Intermediate",
+      "keywords": [
+        "Quality Assurance",
+        "Bug Tracking",
+        "Test Automation"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Beginner",
+      "keywords": [
+        "Containerization",
+        "DevOps",
+        "Software Deployment"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "Intermediate",
+      "keywords": [
+        "Data Science",
+        "Data Processing",
+        "Pandas",
+        "SQL"
+      ]
+    }
+],
+
+"languages": [
+  {
+    "language": "French",
+    "fluency": "Native speaker"
+  },
+  {
+    "language": "English",
+    "fluency": "Professional working proficiency"
+  },
+  {
+    "language": "Spanish",
+    "fluency": "Elementary proficiency"
+  }
+],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Smith",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio",
+      "isActive": false,
+      "description": "A personal portfolio website to showcase my projects and skills.",
+      "highlights": [
+      "Personal portfolio built with Astro", 
+      "Focus on performance and fast loading times", 
+      "Clean, minimalist design", 
+      "Showcases web development projects and technical skills", 
+      "Integrated React and Tailwind CSS for dynamic features", 
+      "SEO-friendly and mobile-responsive", 
+      "Easy-to-manage content with Markdown."
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Automatic Acquisition of 3GPP Meeting Data in Collaboration with Thales",
+      "description": "A project to build an application that automates the acquisition, analysis, and visualization of meeting data from 3GPP working groups.",
+      "highlights": [
+        "Development of an application to extract, analyze, and visualize meeting data from the 3GPP working group.",
+        "The application includes an interactive dashboard that automates data collection and analysis."
+      ],
+      "technologies": [
+        "Python",
+        "Groq",
+        "Streamlit",
+        "SQL"
+      ],
+      "year": "2025",
+      "url": ""
+    },
+    {
+      "name": "E-commerce Website Creation",
+      "description": "Development of a dynamic e-commerce website for managing products and user interactions with a database.",
+      "highlights": [
+        "Developed a website to interact with a database, including features for reading, modifying, and deleting records."
+      ],
+      "technologies": [
+        "PHP",
+        "HTML",
+        "SQL"
+      ],
+      "year": "2024",
+      "url": ""
+    },
+    {
+      "name": "Analysis of a Data Set (Price Food in India)",
+      "description": "Analyzed a dataset of food prices in India using SQL and Python, with insights gathered through Excel and Power BI.",
+      "highlights": [
+        "Analysis of a Kaggle dataset with SQL queries implemented in Python.",
+        "Data was analyzed using Excel and Power BI for further insights."
+      ],
+      "technologies": [
+        "Python",
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "year": "2024",
+      "url": ""
+    }
+  ]
+}
