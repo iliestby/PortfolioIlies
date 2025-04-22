@@ -36,7 +36,7 @@ const { image, summary, url, theme } = basics;
 
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Itim" />
 
-		<link rel="stylesheet" href="/themes/themes.css" />
+		<link rel="stylesheet" href={`${import.meta.env.BASE_URL}themes/themes.css`} /> />
 		<Vengeance />
 	</head>
 	<body data-theme={theme} class="relative bg-skin-fill">
