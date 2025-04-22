@@ -14,7 +14,12 @@ const { image, summary, url, theme } = basics;
 <!doctype html>
 <html lang="en">
 	<head>
-		
+		<meta charset="UTF-8" />
+		<title>{title}</title>
+		<meta name="description" content={summary} />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="preload" as="image" href="public/me_avatar.jpg" />
 
 		<meta property="og:url" content={url} />
 		<meta property="og:type" content="website" />
